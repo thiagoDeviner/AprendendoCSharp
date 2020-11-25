@@ -1,0 +1,7 @@
+C:\Users\thiag\source\repos\AprendendoCSharp\2CriandoVariaveis\bin\Debug\2CriandoVariaveis.exe.config
+C:\Users\thiag\source\repos\AprendendoCSharp\2CriandoVariaveis\bin\Debug\2CriandoVariaveis.exe
+C:\Users\thiag\source\repos\AprendendoCSharp\2CriandoVariaveis\bin\Debug\2CriandoVariaveis.pdb
+C:\Users\thiag\source\repos\AprendendoCSharp\2CriandoVariaveis\obj\Debug\2CriandoVariaveis.csprojAssemblyReference.cache
+C:\Users\thiag\source\repos\AprendendoCSharp\2CriandoVariaveis\obj\Debug\2CriandoVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\thiag\source\repos\AprendendoCSharp\2CriandoVariaveis\obj\Debug\2CriandoVariaveis.exe
+C:\Users\thiag\source\repos\AprendendoCSharp\2CriandoVariaveis\obj\Debug\2CriandoVariaveis.pdb

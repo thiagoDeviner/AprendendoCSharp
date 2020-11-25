@@ -1,0 +1,6 @@
+C:\Users\thiag\source\repos\AprendendoCSharp\TestaCondicional2\bin\Debug\TestaCondicional2.exe.config
+C:\Users\thiag\source\repos\AprendendoCSharp\TestaCondicional2\bin\Debug\TestaCondicional2.exe
+C:\Users\thiag\source\repos\AprendendoCSharp\TestaCondicional2\bin\Debug\TestaCondicional2.pdb
+C:\Users\thiag\source\repos\AprendendoCSharp\TestaCondicional2\obj\Debug\TestaCondicional2.csproj.CoreCompileInputs.cache
+C:\Users\thiag\source\repos\AprendendoCSharp\TestaCondicional2\obj\Debug\TestaCondicional2.exe
+C:\Users\thiag\source\repos\AprendendoCSharp\TestaCondicional2\obj\Debug\TestaCondicional2.pdb

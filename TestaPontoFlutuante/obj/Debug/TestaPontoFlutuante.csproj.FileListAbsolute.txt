@@ -1,0 +1,7 @@
+C:\Users\thiag\source\repos\AprendendoCSharp\TestaPontoFlutuante\bin\Debug\TestaPontoFlutuante.exe.config
+C:\Users\thiag\source\repos\AprendendoCSharp\TestaPontoFlutuante\bin\Debug\TestaPontoFlutuante.exe
+C:\Users\thiag\source\repos\AprendendoCSharp\TestaPontoFlutuante\bin\Debug\TestaPontoFlutuante.pdb
+C:\Users\thiag\source\repos\AprendendoCSharp\TestaPontoFlutuante\obj\Debug\TestaPontoFlutuante.csprojAssemblyReference.cache
+C:\Users\thiag\source\repos\AprendendoCSharp\TestaPontoFlutuante\obj\Debug\TestaPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\thiag\source\repos\AprendendoCSharp\TestaPontoFlutuante\obj\Debug\TestaPontoFlutuante.exe
+C:\Users\thiag\source\repos\AprendendoCSharp\TestaPontoFlutuante\obj\Debug\TestaPontoFlutuante.pdb
