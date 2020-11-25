@@ -1,0 +1,7 @@
+F:\cursos\alura\formacao-dotnet\AprendendoCSharp\P13-MultiplosDe3\obj\Debug\P13-MultiplosDe3.csprojAssemblyReference.cache
+F:\cursos\alura\formacao-dotnet\AprendendoCSharp\P13-MultiplosDe3\obj\Debug\P13-MultiplosDe3.csproj.CoreCompileInputs.cache
+F:\cursos\alura\formacao-dotnet\AprendendoCSharp\P13-MultiplosDe3\bin\Debug\P13-MultiplosDe3.exe.config
+F:\cursos\alura\formacao-dotnet\AprendendoCSharp\P13-MultiplosDe3\bin\Debug\P13-MultiplosDe3.exe
+F:\cursos\alura\formacao-dotnet\AprendendoCSharp\P13-MultiplosDe3\bin\Debug\P13-MultiplosDe3.pdb
+F:\cursos\alura\formacao-dotnet\AprendendoCSharp\P13-MultiplosDe3\obj\Debug\P13-MultiplosDe3.exe
+F:\cursos\alura\formacao-dotnet\AprendendoCSharp\P13-MultiplosDe3\obj\Debug\P13-MultiplosDe3.pdb

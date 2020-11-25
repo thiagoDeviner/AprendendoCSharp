@@ -1,0 +1,6 @@
+F:\cursos\alura\formacao-dotnet\AprendendoCSharp\LacoDeRepeticaoFor\bin\Debug\LacoDeRepeticaoFor.exe.config
+F:\cursos\alura\formacao-dotnet\AprendendoCSharp\LacoDeRepeticaoFor\bin\Debug\LacoDeRepeticaoFor.exe
+F:\cursos\alura\formacao-dotnet\AprendendoCSharp\LacoDeRepeticaoFor\bin\Debug\LacoDeRepeticaoFor.pdb
+F:\cursos\alura\formacao-dotnet\AprendendoCSharp\LacoDeRepeticaoFor\obj\Debug\LacoDeRepeticaoFor.csproj.CoreCompileInputs.cache
+F:\cursos\alura\formacao-dotnet\AprendendoCSharp\LacoDeRepeticaoFor\obj\Debug\LacoDeRepeticaoFor.exe
+F:\cursos\alura\formacao-dotnet\AprendendoCSharp\LacoDeRepeticaoFor\obj\Debug\LacoDeRepeticaoFor.pdb
